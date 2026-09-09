@@ -40,11 +40,6 @@ This repository contains the source code for my personal portfolio. Designed fro
 * **🖼️ Optimized Assets:** Utilizes organized asset management via dedicated `images2/` and `ss/` directories.
 * **🌐 Automated Deployment:** Seamlessly hosted and continuously integrated using GitHub Pages.
 
-## 📸 Sneak Peek
-
-*(Pro-tip: Upload a screenshot of your portfolio to the `ss/` folder and replace `preview-image.png` below to show visitors what your site looks like!)*
-
-```html
 <div align="center">
-  <img src="ss/preview-image.png" alt="Portfolio Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="C:\Users\PC XPERTZ\OneDrive\Desktop\Latest Project\Moon portfolio - Copy\ss\VN Portfolio" alt="Portfolio Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
